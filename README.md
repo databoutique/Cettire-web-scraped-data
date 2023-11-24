@@ -8,6 +8,8 @@ The online luxury retail market is a highly competitive space, with key players 
 
 Web scraped data is essential for businesses like Cettire to develop effective business strategies. By extracting data from various web sources, Cettire can monitor the **pricing strategies and discounting patterns** of its competitors. This ensures that their stock is competitively priced and allows them to respond rapidly to changes in the market. This data can also be used for **marketing purposes**, identifying popular items, predicting customer trends and adjusting the websites stock accordingly. Additionally, web scraped reviews can provide valuable feedback on product quality and customer satisfaction, which can be utilized to improve business operations, leading to a better overall customer experience.
 
+Come to Databoutique.com website to see the available data.
+
 
 ## Link to **dataset**
 
